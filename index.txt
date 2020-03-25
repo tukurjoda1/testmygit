@@ -1,2 +1,2 @@
 This is my first git file
-this is my work to day
+this is my work to day on git
